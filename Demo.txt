@@ -1,3 +1,15 @@
 I am on the main branch!!!
 I am making a feature!
 The feature works!!!
+
+
+Exercise:
+Create a new branch named whatever you want it to be, and then swap to it
+Write some code
+Commit that
+Swap to your main branch
+Merge the new branch into your main branch
+Delete the new branch
+
+Step 2:
+Do it all again
